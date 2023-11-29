@@ -1,8 +1,5 @@
-4279be2 (HEAD -> master) tambah file 4 v4
-7139166 isi file2 lagu
-d82bb3c menambah file 3
+d82bb3c (HEAD -> master) menambah file 3
 3b54a28 menambah file 2
 ada5b48 menambah file 1
-
 
 git reset --soft d82bb3c
