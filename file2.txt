@@ -3,3 +3,5 @@ d82bb3c (HEAD -> master) menambah file 3
 ada5b48 menambah file 1
 
 git reset --soft d82bb3c
+
+git branch feature2
