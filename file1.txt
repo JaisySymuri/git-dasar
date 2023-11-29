@@ -8,3 +8,5 @@ conflict a
 master branch
 
 rebase branch
+
+learning squash
