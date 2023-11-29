@@ -6,3 +6,5 @@ git reset --soft d82bb3c
 
 git branch feature2
 conflict a
+
+git conflict b
