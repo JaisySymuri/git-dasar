@@ -9,4 +9,6 @@ master branch
 
 rebase branch
 
+This is squash branch
+
 learning squash
