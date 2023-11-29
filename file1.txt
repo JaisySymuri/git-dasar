@@ -1,3 +1,4 @@
 menambah file 1
 menambah file 2
-menambah file 3
+
+menghapus line 3 menambah file 3
