@@ -1,1 +1,2 @@
 git commit --amend -m "tambah file 4 v2"
+git branch feature2
