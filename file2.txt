@@ -5,3 +5,4 @@ ada5b48 menambah file 1
 git reset --soft d82bb3c
 
 git branch feature2
+conflict a

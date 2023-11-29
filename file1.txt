@@ -4,3 +4,4 @@ menambah file 2
 menghapus line 3 menambah file 3
 
 git branch
+conflict a
