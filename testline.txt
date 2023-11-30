@@ -1,2 +1,2 @@
-Line1 = This will be deleted in delete test branch
+
 Line2 = This will stay in both branch, main and delete test
