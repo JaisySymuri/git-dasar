@@ -1,0 +1,6 @@
+[submodule "git-remote"]
+	path = git-remote
+	url = https://github.com/JaisySymuri/git-remote.git
+[submodule "scripts"]
+	path = scripts
+	url = https://github.com/JaisySymuri/git-remote.git
